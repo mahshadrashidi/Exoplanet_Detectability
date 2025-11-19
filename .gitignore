@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Data files (don't upload these)
+*.fit
+*.fits
+*.pdf
+*.csv
+
+# OS files
+.DS_Store
